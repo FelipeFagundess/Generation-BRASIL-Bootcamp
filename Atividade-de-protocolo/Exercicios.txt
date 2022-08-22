@@ -1,0 +1,39 @@
+1) O que são métodos HTTP?: O protocolo HTTP define um conjunto de métodos de requisição responsáveis por indicar a ação a ser executada para um dado recurso. Embora esses métodos possam ser descritos como substantivos, eles também são comumente referenciados como HTTP Verbs (Verbos HTTP
+2) Quais são os métodos HTTP mais utilizados atualmente?:
+GET
+POST
+PUT
+DELETE
+TRACE
+OPTIONS
+PATCH
+CONNECT
+
+3) Quais são os 2 principais métodos do HTTP? Qual é a diferença entre eles?:  O método GET cria uma seqüência de consulta(query string) e a acrescenta à URL do script no servidor que manipula a solicitação. O método POST cria um par nome/valor que são passados no corpo da mensagem de pedido HTTP.
+
+
+4) O que são requisições HTTP? Quais os tipos?:Requisições HTTP são mensagens enviadas pelo cliente para iniciar uma ação no servidor. Suas linhas iniciais contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou um nome (como HEAD ou OPTIONS ), que descrevem a ação a ser executada.
+
+
+5) Como funciona uma requisição?: Requisições HTTP são mensagens enviadas pelo cliente para iniciar uma ação no servidor. Suas linhas iniciais contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou um nome (como HEAD ou OPTIONS ), que descrevem a ação a ser executada.
+
+
+6) O que é o método GET?:O método GET cria uma seqüência de consulta(query string) e a acrescenta à URL do script no servidor que manipula a solicitação.
+
+
+7) Qual é o protocolo de internet para transferência segura, com uso de certificado digital, utilizado em sites de compras eletrônicas?: O certificado SSL cria um canal criptografado que vai do navegador (browser) ao servidor web, impossibilitando que cibercriminosos compreendam as mensagens remetidas na rede — como e-mails, transferências bancárias ou compras com cartão de crédito.
+
+
+8) Quais os principais métodos de uma requisição REST?: Há várias maneiras de fazer requisições HTTP do front end para o back end usando REST. Os verbos são: Get, Put, Post, Patch, Delete sendo que alguns podem receber parâmetros na URL ou não.
+
+
+9) Qual a diferença entre IPv4 e IPv6?: O IPv4 define, entre outras coisas importantes para a comunicação entre computadores, que o número IP tem uma extensão de 32 bits. Com 32 bits, o IPv4 tem disponíveis em teoria cerca de quatro bilhões de endereços IP mas, na prática, o que está realmente disponível é menos da metade disso
+
+
+10) Faça um resumo sobre os seguintes protocolos: http, tcp, ip, udp, smtp e ftp: 
+FTP é a sigla para File Transfer Protocol, que significa Protocolo de Transferência de Arquivos.
+SMTP é o responsável por garantir que os e-mails que você envia diariamente cheguem aos destinatários.
+UDP opera sobre o protocolo da Internet (IP) para transmitir datagramas em uma rede.
+o IP, é o principal protocolo de comunicação na rede. Ele é o responsável por endereçar e encaminhar os pacotes que trafegam pela internet
+TCP é o responsável por quebrar uma mensagem em partes menores, enviando-as pela internet.
+HTTP é um protocolo (protocol) que permite a obtenção de recursos, como documentos HTML.
