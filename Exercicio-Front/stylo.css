@@ -6,13 +6,20 @@ font-style: normal;
 }
 body {
    background-color: black;
+   
 }
-h1 {
+body.p {
+
+  background-color: azure;
+}
+h1{
+    font-size: 80px;
     text-align: center;
    font-family: 'home';
     color: yellow;
 }
 
-img.imagematomo {
-    text-align: center;
+.imagematomo {
+    size: 512px;
+    left: 122px;
 }
